@@ -1,7 +1,7 @@
 Note:
 If you don't have the g++ compiler you should 
-download the MinGW c++ compiler from here:
-https://sourceforge.net/projects/mingw/
+download the MinGW C++ compiler from here:
+https://sourceforge.net/projects/mingw/ ,
 it contains the g++
 then add it in the environmnet variables -> system variables
 scroll for Path then double click it and click New
