@@ -1,0 +1,13 @@
+# ninja log v5
+7	622	7128964103781141	CMakeFiles/AreaCalculator.dir/main.cpp.obj	95535aaf2ba0d409
+623	772	7128964105236780	AreaCalculator.exe	5103cdcc3abe6511
+7	1417	7132159573062442	CMakeFiles/AreaCalculator.dir/main.cpp.obj	dfb8fb421ce9a1de
+1419	2139	7132159579874309	AreaCalculator.exe	5103cdcc3abe6511
+6	2553	7132159885840359	CMakeFiles/AreaCalculator.dir/main.cpp.obj	dfb8fb421ce9a1de
+2555	4385	7132159904235055	AreaCalculator.exe	5103cdcc3abe6511
+8	4037	7132160224478564	CMakeFiles/AreaCalculator.dir/main.cpp.obj	dfb8fb421ce9a1de
+4040	4519	7132160229440266	AreaCalculator.exe	5103cdcc3abe6511
+5	1152	7132160392948648	CMakeFiles/AreaCalculator.dir/main.cpp.obj	dfb8fb421ce9a1de
+1154	1568	7132160396999491	AreaCalculator.exe	5103cdcc3abe6511
+8	1099	7132160640386420	CMakeFiles/AreaCalculator.dir/main.cpp.obj	dfb8fb421ce9a1de
+1100	1474	7132160643996681	AreaCalculator.exe	5103cdcc3abe6511
